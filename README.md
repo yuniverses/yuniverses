@@ -1,5 +1,5 @@
 <h1 align="center">Yuniverse · 陳冠宇</h1>
-<h3 align="center">Cloud / Web / Interaction Developer</h3>
+<h3 align="center">APP / Web / Interaction Developer</h3>
 
 <p align="center">
   <i>「以一個敞開的靈魂去關注一切。」</i>
